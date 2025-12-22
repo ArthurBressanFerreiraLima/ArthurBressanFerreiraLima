@@ -7,7 +7,7 @@
 ### Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurBressanFerreiraLima&show_icons=true&theme=onedark" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBressanFerreiraLima&hide_progress=true&theme=onedark" width="435" height="168">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBressanFerreiraLima&layout=compact&hide_progress=true&theme=onedark&include_all_commits=true" width="435">
 </p>
 
 ---
