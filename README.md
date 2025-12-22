@@ -1,4 +1,4 @@
-# Olá. Meu nome é Arthur Bressan Ferreira Lima
+# Olá! Meu nome é Arthur Bressan Ferreira Lima
 
 💻 Estudante de Banco de Dados na FATEC
 
